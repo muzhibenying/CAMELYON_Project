@@ -1,0 +1,11 @@
+*.tif
+*.pt
+*.h5
+*.gif
+*.png
+*.jpg
+*.tiff
+*.pkl
+*.svs
+event*
+*.pyc
